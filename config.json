@@ -1,0 +1,9 @@
+{
+    "api_key": "",
+    "vote_url": "https://snapshot.org/#/stgdao.eth/proposal/0x8ca03295d142b8ed1dc55adffdaec3bd24d4a9613a44c1aa983907f3dab5ec9d",
+    "file_name": "",
+    "min_wait": 30,
+    "max_wait": 45,
+    "random_answer": "\u0421\u043b\u0443\u0447\u0430\u0439\u043d\u044b\u0439 \u043e\u0442\u0432\u0435\u0442",
+    "random_order": "\u0413\u043e\u043b\u043e\u0441\u043e\u0432\u0430\u0442\u044c \u043f\u043e \u043f\u043e\u0440\u044f\u0434\u043a\u0443"
+}
